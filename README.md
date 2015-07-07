@@ -1,2 +1,2 @@
 # datasciencecoursera
-coursera fdata science toolbox stuff
+coursera data science toolbox stuff
